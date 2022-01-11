@@ -1,0 +1,25 @@
+{
+  "name": "Zenith Chain Mainnet",
+  "chain": "ZENITH",
+  "network": "mainnet",
+  "rpc": [
+    "https://dataserver-1.zenithchain.co"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "ZENITH",
+    "symbol": "ZENITH",
+    "decimals": 18
+  },
+  "infoURL": "https://zenithcgain.co",
+  "shortName": "ZENITH",
+  "chainId": 79,
+  "networkId": 79,
+  "icon": "ethereum",
+  "explorers": [{
+    "name": "Zenith scan",
+    "url": "https://scan.zenithchain.co",
+    "icon": "etherscan",
+    "standard": "EIP3091"
+  }]
+}
